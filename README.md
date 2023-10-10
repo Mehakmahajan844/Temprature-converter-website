@@ -1,1 +1,1 @@
-# Temprature-converter-website
+Temperature converter is a web-based temperature application built using HTML, CSS, and JavaScript. It allows users to convert temperatures between  Celsius, Fahrenheit.Easily switch between units and perform accurate conversions with this user-friendly tool.
